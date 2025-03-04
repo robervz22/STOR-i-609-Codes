@@ -22,8 +22,8 @@ while level_reached<4 or len(queue)==0:
                 break
             level_reached += 1
 
-print(queue)
-print(doors_exploration)
+# print(queue)
+# print(doors_exploration)
 
 
 
